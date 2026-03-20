@@ -34,9 +34,8 @@
     "gulp-notify": "^3.2.0",
     "gulp-plumber": "^1.2.1",
     "gulp-postcss": "^8.0.0",
-    "gulp-sass": "^4.1.0",
+    "gulp-sass": "^6.0.1",
     "gulp-sourcemaps": "^2.6.5",
-    "node-sass": "^4.14.1",
     "through2": "^3.0.1",
     "vinyl-named": "^1.1.0",
     "webpack": "^4.43.0",
@@ -50,6 +49,7 @@
   },
   "dependencies": {
     "eslint": "^6.8.0",
-    "moment": "^2.26.0"
+    "moment": "^2.26.0",
+    "sass": "^1.98.0"
   }
 }
